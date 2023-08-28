@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devmjsus
 - 👀 I’m interested in Sports, Nature, and code 👨‍💻
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Frameworks 🤩
 - 💞️ I’m looking to collaborate on Workspaces for front-end
 - 📫 How to reach me jesdmont@outlook.com
 
